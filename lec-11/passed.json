@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ana",
+    "score": 85,
+    "passed": true
+  },
+  {
+    "name": "Gio",
+    "score": 70,
+    "passed": true
+  }
+]
