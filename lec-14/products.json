@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1782500843525,
+    "name": "Milk",
+    "description": "Fresh milk",
+    "date": "2026-06-20",
+    "category": "Food",
+    "isExpired": true
+  },
+  {
+    "id": 1782500888620,
+    "name": "Milk",
+    "description": "Fresh milk",
+    "date": "2026-06-20",
+    "category": "Food",
+    "isExpired": true
+  }
+]
